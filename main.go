@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	"whatsapp-ai-assistant/config"
-	"whatsapp-ai-assistant/routes"
+	"wpassistant/config" 
+	"wpassistant/routes"
 )
 
 func main() {
